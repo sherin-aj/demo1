@@ -1,0 +1,109 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/***Navbar ***/
+.nav-item {
+    letter-spacing:.2em;
+    font-size: 14px;
+    text-transform: uppercase;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
+}
+.dropdown-item{
+    letter-spacing:.2em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.my_footer{
+    background-color:#ADD8E6;
+    height:60px;
+}
+.my_footer p{
+    padding-top:20px;
+    font-size: 14px;
+
+
+}
+.my_row_class{
+    padding-top:15px;
+}
+.my_row_class .mx_auto{
+    color:#000;
+    font-size:12px;
+
+}
+.my_image{
+    width:100%;
+    height:auto;
+}
+.my_title{
+  letter-spacing:.2em;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.my_image_padding{
+
+padding:4px;
+
+}
+.my_bottom_margin{
+    margin-bottom:10px;
+}
+.card-body h4
+{
+font-size:14;
+text-transform:uppercase;
+letter-spacing:.2em;
+
+}
+/*** product***/
+.my_prod_row_class{
+
+padding-top:15px;
+padding-bottom: 20px;
+}
+
+.my_prod_row_class .mx_auto{
+color:#000;
+font-size:22px;
+text-decoration:none;
+
+}
+.my_prod_title{
+font-size:28px;
+text_transform:uppercase;
+letter-spacing:.100em;
+padding-top:15px;
+padding-bottom:10px;
+
+}
+my_prod_text{
+padding-right:20px;
+
+}
+.my_search_text{
+padding-top:20px;
+}
+/*** cart***/
+.my_custom_table{
+
+min-width:100px;
+font-size:16px;
+}
+.my_custom_thead{
+    font-weight:normal;
+    text-transform:uppercase;
+    letter-spacing:.1em;
+    background-color:#7FFFD4 !important;
+}
+.custom_a{
+text_decoration:none;
+}
+.custom_icon{
+color:#ADD8E6 ;
+}
+.my_custom_button{
+margin-top:5px;
+}
